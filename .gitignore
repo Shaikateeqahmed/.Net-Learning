@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Hello_World_CSharp/.vs/Hello_World_CSharp
+/Hello_World_CSharp/Hello_World_CSharp
